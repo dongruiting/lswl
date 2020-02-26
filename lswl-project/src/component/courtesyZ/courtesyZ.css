@@ -1,0 +1,155 @@
+.cour_head{
+    background: #fff;
+    width: 375px;
+    height: 51px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.return{
+    border-width: 0px;
+    position: absolute;
+    left: 15px;
+    top: 18px;
+    width: 12px;
+    height: 19px;
+    color: #1E1E1E;
+}
+.return img{
+    width: 12px;
+    height: 19px;
+}
+.cour_gift{
+    line-height: 39px;
+}
+.courgiftl{
+    border-width: 0px;
+    position: absolute;
+    left: 83px;
+    top: 6px;
+    width: 104px;
+    height: 39px;
+    line-height: 39px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #199ED8;
+    text-align: center;
+}
+.courgiftr{
+    border: 1px solid;
+    box-sizing: border-box;
+    position: absolute;
+    left: 187px;
+    top: 6px;
+    width: 104px;
+    height: 39px;
+    line-height: 39px;
+    font-size: 16px;
+    color: #199ED8;
+    text-align: center;
+}
+.add{
+    border-width: 0px;
+    position: absolute;
+    right: 10px;
+    top: 14px;
+    width: 24px;
+    height: 24px;
+}
+.add img{
+    width: 24px;
+    height: 24px;
+}
+.nav_type{
+    display: flex;
+    margin-bottom: 10px;
+}
+.type{
+    flex: 1;
+    width: 123px;
+    height: 39px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 39px;
+    background: #fff;
+    border-right: 1px #ccc solid;
+}
+.time{
+    width: 123px;
+    height: 39px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 39px;
+    background: #fff;
+    border-right: 1px #ccc solid;
+    flex: 1;
+}
+.money{
+    flex: 1;
+    width: 123px;
+    height: 39px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 39px;
+    background: #fff;
+}
+.gift_receipt{
+    width: 375px;
+    height: 64px;
+    background: #fff;
+    position: relative;
+}
+.category_name{
+    border-width: 0px;
+    position: absolute;
+    left: 35px;
+    top: 12px;
+    width: 57px;
+    height: 16px;
+    font-size: 14px;
+    color: #333;
+}
+.amount{
+    border-width: 0px;
+    position: absolute;
+    right: 10px;
+    top: 7px;
+    width: 120px;
+    height: 32px;
+    font-family: 'Arial Negreta', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #FF0000;
+}
+.g_name{
+    border-width: 0px;
+    position: absolute;
+    left: 35px;
+    top: 40px;
+    width: 29px;
+    height: 16px;
+    white-space: nowrap;
+    font-size: 14px;
+    color: #333;
+}
+.number{
+    border-width: 0px;
+    position: absolute;
+    right: 90px;
+    top: 40px;
+    width: 59px;
+    height: 16px;
+    color: #999999;
+    text-align: right;
+    font-size: 14px;
+}
+.date{
+    border-width: 0px;
+    position: absolute;
+    right: 10px;
+    top: 40px;
+    width: 65px;
+    height: 16px;
+    color: #999999;
+    font-size: 14px;
+}
